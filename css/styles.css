@@ -33,12 +33,14 @@ h3 {
     color: dimgrey;
     display: flex;
     justify-content: center;
+    height: 0px;
 }
 
 h4 {
     color: #7d4f5;
     display: flex;
     margin: 65px;
+    height: 0px;
 }
 .margin-for-list {
   margin: 50px;
