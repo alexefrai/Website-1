@@ -38,7 +38,7 @@ h3 {
 h4 {
     color: #7d4f5;
     display: flex;
-    justify-content: center;
+    margin: 65px;
 }
 .margin-for-list {
   margin: 50px;
@@ -57,4 +57,8 @@ img {
 }
 p {
     margin: 65px;
+}
+.sources {
+    display: flex;
+    margin-left: 65px;
 }
