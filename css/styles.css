@@ -29,6 +29,17 @@ h2 {
     display: flex;
     justify-content: center;
 }
+h3 {
+    color: dimgrey;
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    color: #7d4f5;
+    display: flex;
+    justify-content: center;
+}
 .margin-for-list {
   margin: 50px;
   color: #321c23
@@ -37,11 +48,13 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-h3{
-    color:#7d4f5
+    max-width: 60%;
+    height: auto;
 }
 .custom-image{
     height: 500px;
     width: auto;
+}
+p {
+    margin: 65px;
 }
