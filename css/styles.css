@@ -62,7 +62,8 @@ p {
     display: flex;
     margin-left: 65px;
 }
-.nav-fixed{
+.nav-fixed {
     position: fixed;
     width: 100%;
+    z-index: 1;
 }
