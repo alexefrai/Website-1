@@ -67,3 +67,7 @@ p {
     width: 100%;
     z-index: 1;
 }
+.email-margin{
+    margin-left: 65px;
+    margin-right: 800px;
+}
